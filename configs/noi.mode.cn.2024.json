@@ -238,6 +238,12 @@
       "url": "https://dribbble.com"
     },
     {
+      "id": "noi:gmail",
+      "parent": "noi@email",
+      "text": "Gmail",
+      "url": "https://mail.google.com"
+    },
+    {
       "id": "noi:qqmail",
       "parent": "noi@email",
       "text": "QQ 邮箱",
@@ -254,6 +260,12 @@
       "parent": "noi@video",
       "text": "哔哩哔哩",
       "url": "https://www.bilibili.com"
+    },
+    {
+      "id": "noi:youtube",
+      "parent": "noi@video",
+      "text": "YouTube",
+      "url": "https://www.youtube.com"
     },
     {
       "id": "noi:tongyifarui",
