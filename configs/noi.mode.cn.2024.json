@@ -27,6 +27,12 @@
       "dir": true,
       "text": "AI（内陆版）"
     },
+	{
+      "id": "noi@lawpaddle",
+      "parent": 0,
+      "dir": true,
+      "text": "法桨"
+    },
     {
       "id": "noi@dev",
       "parent": 0,
@@ -248,6 +254,12 @@
       "parent": "noi@video",
       "text": "哔哩哔哩",
       "url": "https://www.bilibili.com"
+    },
+    {
+      "id": "noi:tongyifarui",
+      "parent": "noi@lawpaddle",
+      "text": "通义法睿",
+      "url": "https://tongyi.aliyun.com/farui/"
     }
   ]
 }
